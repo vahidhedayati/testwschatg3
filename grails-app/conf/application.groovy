@@ -1,0 +1,14 @@
+wschat.add.appName='no'
+wschat.defaultperm='admin'
+wschat.rooms = ['fred','smith','room3']
+wschat.showtitle="no"
+wschat.hostname='localhost:8080'
+stunServers { iceServers=[ [url: 'stun:stun.l.google.com:19302'] ] }
+//wschat.send.leftroom='no'
+//wschat.send.joinroom='no'
+//config.frontenduser='_frontend'
+//config.storeForFrontEnd=false
+wschat.dbstore=true
+wschat.dbstore_pm_messages=true
+wschat.dbstore_room_messages=true
+wschat.debug=true
